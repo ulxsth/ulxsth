@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align='center'>
 
-<!--
-**ulxsth/ulxsth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![typograssy](https://typograssy.deno.dev/api?text=DRINKNG%20COFFEE,%20EATING%20KNOWLEDGE%20%20&frame=cccccc&comment=%F0%9F%92%95Generated%20by%20kawarimidoll/typograssy%F0%9F%92%95)](https://github.com/kawarimidoll/typograssy)
 
-Here are some ideas to get you started:
+## > ☕whoami☕ <
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+\ 💕 / <br> 
+
+![icon](https://user-images.githubusercontent.com/114195789/212487537-7955a533-3ca5-4bae-910c-92aabb1efa6b.jpg)
+
+<div align='left'>
+|| NAME: 仮病(ke-byo) <br>
+|| AGE:  19 <br>
+|| LIKE: ☕,🥐
+</div>
