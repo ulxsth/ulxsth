@@ -8,7 +8,7 @@
 ![Acm5uxiO_400x400](https://github.com/ulxsth/ulxsth/assets/114195789/fc22db37-4788-4608-8a97-e9de02da37ea)
 </div>
   
-|| NAME: 仮病(ke-byo) <br>
+|| NAME: yotu <br>
 || AGE:  19 <br>
 || LIKE: ☕,🥐
 
