@@ -5,9 +5,7 @@
 ## > ☕whoami☕ <
   
 \ 💕 / <br> 
-
-![icon](https://user-images.githubusercontent.com/114195789/212487537-7955a533-3ca5-4bae-910c-92aabb1efa6b.jpg)
-
+![Acm5uxiO_400x400](https://github.com/ulxsth/ulxsth/assets/114195789/fc22db37-4788-4608-8a97-e9de02da37ea)
 </div>
   
 || NAME: 仮病(ke-byo) <br>
