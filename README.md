@@ -5,7 +5,8 @@
 ## > ☕whoami☕ <
   
 \ 💕 / <br> 
-![Acm5uxiO_400x400](https://github.com/ulxsth/ulxsth/assets/114195789/fc22db37-4788-4608-8a97-e9de02da37ea)
+<img src="https://github.com/ulxsth/ulxsth/assets/114195789/fff73663-bc0a-4e69-9422-69d6e70ea860" width=400 height=400>
+
 </div>
   
 || NAME: yotu <br>
