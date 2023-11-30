@@ -24,7 +24,7 @@
   
   ## > 🥐𝘔𝘪𝘴𝘤𝘴🥐 <
   
-</div>
+
 
 <details>
   <summary>𝘊𝘰𝘯𝘵𝘦𝘯𝘵𝘴 𝘨𝘦𝘯𝘦𝘳𝘢𝘵𝘦𝘥 𝘣𝘺 𝘎𝘪𝘵𝘏𝘶𝘣 𝘱𝘳𝘰𝘧𝘪𝘭𝘦 𝘩𝘦𝘭𝘱𝘦𝘳𝘴</summary>
@@ -35,5 +35,7 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulxsth&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ulxsth&column=10)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ulxsth&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
+
+</div>
