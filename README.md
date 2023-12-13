@@ -16,8 +16,8 @@
 
 [![About me](https://skillicons.dev/icons?i=vscode,idea,java,gradle,nodejs,ts,express,ruby,rails&theme=light)](https://skillicons.dev)
 
-## > 🎧𝘕𝘰𝘸 𝘗𝘭𝘢𝘺𝘪𝘯𝘨...🎧 <
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31blvu6rlqobbxb3up27d6wrcv2i&count=1)
+## > 👾𝘈𝘤𝘵𝘪𝘷𝘪𝘵𝘺👾 <
+![discord](https://discord.c99.nl/widget/theme-1/1032866961866104893.png)
   
   ## > 📑𝘓𝘪𝘯𝘬𝘴📑 <
 
