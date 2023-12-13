@@ -5,7 +5,7 @@
 ## > ☕𝘸𝘩𝘰𝘢𝘮𝘪☕ <
   
 \ 💕 / <br> 
-<img src="https://github.com/ulxsth/ulxsth/assets/114195789/fff73663-bc0a-4e69-9422-69d6e70ea860" width=400 height=400>
+<img src="https://github.com/ulxsth/ulxsth/assets/114195789/fff73663-bc0a-4e69-9422-69d6e70ea860" width=200 height=200>
 <hr>
 
 𝘕𝘈𝘔𝘌: 𝘺𝘰𝘵𝘶 <br>
@@ -15,6 +15,9 @@
 <hr>
 
 [![About me](https://skillicons.dev/icons?i=vscode,idea,java,gradle,nodejs,ts,express,ruby,rails&theme=light)](https://skillicons.dev)
+
+## > 🎧𝘕𝘰𝘸 𝘗𝘭𝘢𝘺𝘪𝘯𝘨...🎧 <
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31blvu6rlqobbxb3up27d6wrcv2i&count=1)
   
   ## > 📑𝘓𝘪𝘯𝘬𝘴📑 <
 
