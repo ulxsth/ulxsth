@@ -15,9 +15,6 @@
 <hr>
 
 [![About me](https://skillicons.dev/icons?i=vscode,idea,java,gradle,nodejs,ts,express,ruby,rails&theme=light)](https://skillicons.dev)
-
-## > 👾𝘈𝘤𝘵𝘪𝘷𝘪𝘵𝘺👾 <
-![discord](https://discord.c99.nl/widget/theme-1/1032866961866104893.png)
   
   ## > 📑𝘓𝘪𝘯𝘬𝘴📑 <
 
