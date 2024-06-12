@@ -5,8 +5,9 @@
 ## > ☕𝘸𝘩𝘰𝘢𝘮𝘪☕ <
   
 \ 💕 / <br> 
-<img src="https://github.com/ulxsth/ulxsth/assets/114195789/fff73663-bc0a-4e69-9422-69d6e70ea860" width=200 height=200>
+![5c728f05e3e5554f](https://github.com/ulxsth/ulxsth/assets/114195789/9534cda8-369a-408c-a479-2c0720c31d24)
 <hr>
+
 
 𝘕𝘈𝘔𝘌: 𝘺𝘰𝘵𝘶 <br>
 𝘈𝘎𝘌:  20 <br>
